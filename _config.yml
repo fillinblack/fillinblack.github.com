@@ -1,0 +1,14 @@
+﻿markdown: rdiscount
+permalink: /:year/:month/:title/
+url: http://fillinblack.github.io
+name: zxcrfv的个人站点
+author: zxcrfv
+email1: zxcrfv@gmail.com
+email2: zxcrfv@qq.com
+duoshuo: zxcrfv
+disqus: 
+cnzz: 
+github:
+weibo: 
+pygments: true
+paginate: 36
